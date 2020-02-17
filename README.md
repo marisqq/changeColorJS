@@ -1,3 +1,3 @@
-# changeColorJS
-Simple HEX color generator.
+# Simple HEX color generator.
+
 Live Version:  https://marisqq.github.io/changeColorJS/.
