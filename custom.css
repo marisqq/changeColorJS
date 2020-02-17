@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(149, 149, 252);
+    background-color: #9595fc;
     min-height: 100vh;
     justify-content: center;
     display: flex;
@@ -7,7 +7,7 @@ body{
 }
 .changeClr {
     border: none;
-    background: #404040;
+    background: #f59898;
     color: #ffffff !important;
     font-weight: 100;
     padding: 20px;
@@ -17,14 +17,14 @@ body{
     transition: all 0.3s ease 0s;
     }
     .changeClr:hover {
-        color: #404040 !important;
-        font-weight: 700 !important;
+        color: #e67f7f ;
+        font-weight: 700 ;
         letter-spacing: 3px;
         background: none;
         -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
         -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
         transition: all 0.3s ease 0s;
-        color:#df26e6;
+        
         }
         
     .hex{
